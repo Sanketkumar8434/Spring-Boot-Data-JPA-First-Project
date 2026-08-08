@@ -1,7 +1,6 @@
-package com.sanket;
+package com.sanket.Runner;
 
 import com.sanket.Service.IStudentService;
-import com.sanket.Service.StudentServiceImpl;
 import com.sanket.entity.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
